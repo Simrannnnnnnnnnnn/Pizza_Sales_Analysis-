@@ -1,5 +1,5 @@
 # Descriptive Analytics Project: Summarizing and Describing Pizza Sales for XYZ Company
-
+    
 # Introduction
 This project aims to analyze and summarize the pizza sales data of XYZ Company using SQL and Power BI. The datasets used in this project is dummy. The objective is to gain insights into various aspects of the company's pizza sales, 
 
